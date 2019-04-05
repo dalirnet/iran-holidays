@@ -1,6 +1,6 @@
 # iran-holidays
 iran holidays
-```
+```json
 [{
     "comment": ["جشن نوروز/جشن سال نو"],
     "day": 1,
