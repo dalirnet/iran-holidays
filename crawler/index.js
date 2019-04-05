@@ -20,10 +20,10 @@ function getHolidays() {
                 month: temp.month,
                 day: dayParse,
                 comment: [dayElement.childNodes[2].textContent.trim()],
-                isHolliday: false
+                isHoliday: false
             };
             if (dayElement.getAttribute('class') == 'eventHoliday') {
-                object.isHolliday = true;
+                object.isHoliday = true;
             }
             if (temp.day != dayParse) {
                 out.push(object);
