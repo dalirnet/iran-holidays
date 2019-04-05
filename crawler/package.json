@@ -1,0 +1,15 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "time.ir crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "casperjs index.js"
+  },
+  "author": "AmirReza Dalir <dalirnet@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "casperjs": "^1.1.4"
+  }
+}
