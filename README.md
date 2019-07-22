@@ -1,5 +1,5 @@
 # iran holidays (مناسبتهای ایران)
-<sub>based from [time.ir](https://www.time.ir/)</sub> \
+<sub>based on [time.ir](https://www.time.ir/)</sub> \
 [#مناسبت_های_تاریخ](https://github.com/dalirnet/iran-holidays) \
 [#مناسبت_های_ایران](https://github.com/dalirnet/iran-holidays) \
 [#تعطیلات_رسمی](https://github.com/dalirnet/iran-holidays) \
